@@ -1,37 +1,47 @@
-## Jilin Zhang
+# Jilin Zhang
 
-You can use the [editor on GitHub](https://github.com/zhjilin/zhjilin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**“三人行，必有我师焉”**
+_－－There is always someone to learn from._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Research interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have a broad interest in dissecting the genome function through developing and applying novel techniques.  
 
-```markdown
-Syntax highlighted code block
+## Education  
+**Oct. 2015- May 2020|Karolinska Institutet|Stockholm, Sweden**  
+   _Ph.D., Medical science  
+   Supervisor: Prof. Jussi Taipale_  
+**Sept. 2008 – July 2010|Beijing Jiaotong University|Beijing, China**  
+   _M.S., Biophysics_  
+**Sept. 2004 – June 2008|Beijing Institute of Technology|Beijing, China**  
+   _B.S., Bioengineering_  
 
-# Header 1
-## Header 2
-### Header 3
+## Research activities  
+**Jan. 2021-present, Post-doc researcher, Karolinska Institutet, Reinius group, Sweden**  
+- _Single-cell RNA transcriptome to decrypt the transcriptional mechanism of dosage compensation_  
 
-- Bulleted
-- List
+**Dec. 2014- 2020, PhD candidate,Karolinska Institutet, Taipale group, Sweden**  
+- _Binding specificities of human RNA binding proteins_  
+- _Evolutionary dynamics of the avian sex chromosomes_  
 
-1. Numbered
-2. List
+**July 2010 – Oct. 2014, Bioinformatics engineer, Beijing Genomics Institute (BGI-Shenzhen),China**  
+-	_Comparative genomics to illustrate avian sex chromosomes evolution_  
+- _Design data-mining strategies for whole genome sequencing projects_  
+-	_Develop gene annotation pipeline for non-model organisms’ genomes_  
 
-**Bold** and _Italic_ and `Code` text
+## Selected Publications
 
-[Link](url) and ![Image](src)
-```
+[ full list of pulications ](https://orcid.org/0000-0002-9976-1605)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Jolma, A.*, <strong>Zhang, J.*</strong>, Mondragon*, E., Morgunova, E., Kivioja, T., Laverty, K.U., Yin, Y., Zhu, F., Bourenkov, G., Morris, Q., Hughes, T.R., Maher, L.J., 3rd, and Taipale, J. (2020). Binding specificities of human RNA-binding proteins toward structured and linear RNA sequences. Genome Res 30, 962-973.  
 
-### Jekyll Themes
+- Yi, W., Li, J., Zhu, X., Wang, X., Fan, L., Sun, W., Liao, L., <strong>Zhang, J.*</strong>, Li, X., Ye, J., Chen, F., Taipale, J., Chan, K.M., Zhang, L., and Yan, J. (2020). CRISPR-assisted detection of RNA-protein interactions in living cells. Nat Methods 17, 685-688.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhjilin/zhjilin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Schmierer, B., Botla, S.K., <strong>Zhang, J.*</strong>, Turunen, M., Kivioja, T., and Taipale, J. (2017). CRISPR/Cas9 screening using unique molecular identifiers. Mol Syst Biol 13, 945.  
 
-### Support or Contact
+- Dave, K., Sur, I., Yan, J., <strong>Zhang, J.*</strong>, Kaasinen, E., Zhong, F., Blaas, L., Li, X., Kharazi, S., Gustafsson, C., De Paepe, A., Mansson, R., and Taipale, J. (2017). Mice deficient of Myc super-enhancer region reveal differential control mechanism between normal and pathological growth. eLife 6.  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Zhou, Q.*, <strong>Zhang, J.*</strong>, Bachtrog, D.*, An, N., Huang, Q., Jarvis, E.D., Gilbert, M.T.P., and Zhang, G. (2014). Complex evolutionary trajectories of sex chromosomes across bird taxa. Science (New York, NY) 346, 1246338-1246338.  
+
+ <strong>first/co-first author*</strong>
