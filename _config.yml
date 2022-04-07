@@ -11,7 +11,8 @@ email: jilin.zhang@cityu.edu.hk
 description: > # this means to ignore newlines until "baseurl:"
   Website of the JZ Lab.
 baseurl: ""
-url: ""
+url: "jzlab.github.io"
+baseurl: /jzlab.github.io
 
 include:
   - .htaccess
