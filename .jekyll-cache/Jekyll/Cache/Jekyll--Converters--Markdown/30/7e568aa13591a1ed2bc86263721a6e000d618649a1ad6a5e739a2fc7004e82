@@ -1,0 +1,113 @@
+I"+<h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p>(For a full list of publications see <a href="#full-list-of-publications">below</a> or go to <a href="https://scholars.cityu.edu.hk/en/persons/jilin-zhang(6d4beccd-7ec5-4423-a8bc-207ba5fbb6d6).html">CityU Scholars</a>, <a href="http://orcid.org/0000-0002-9976-1605">ORCID iD: 0000-0002-9976-1605</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>A new duck genome reveals conserved and convergently evolved chromosome architectures of birds and mammals</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/giaa_2021duck.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Ducks have a typical avian karyotype that consists of macro- and microchromosomes, but a pair of much less differentiated ZW sex chromosomes compared to chickens. To elucidate the evolution of chromosome architectures, we produced a nearly complete chromosomal assembly of a female Pekin duck. Analyses based on thi high quality genome have revealed that the duck topologically associated domains (TAD) are demarcated by putative binding sites of the insulator protein CTCF, housekeeping genes, or transitions of active/inactive chromatin compartments, indicating conserved mechanisms of spatial chromosome folding with mammals.</p>
+      <p><em>Jing Li, <strong><ins>Jilin Zhang </ins></strong>, Jing Liu, Yang Zhou, Cheng Cai, Luohao Xu, Xuelei Dai, Shaohong Feng, Chunxue Guo, Jinpeng Rao, Kai Wei, Erich D Jarvis, Yu Jiang, Zhengkui Zhou, Guojie Zhang, Qi Zhou</em></p>
+      <p><strong><a href="https://academic.oup.com/gigascience/article/10/1/giaa142/6039068">GigaScience 10:1, (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Binding specificities of human RNA-binding proteins toward structured and linear RNA sequences</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/GR_2020.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We assembled a genome-scale collection of RBPs and their RNA-binding domains (RBDs) and assessed their specificities using high-throughput RNA-SELEX (HTR-SELEX). Approximately 30% preferred structured motifs folding into stem–loops. We also found that many RBPs can bind to multiple distinctly different motifs. Structural analysis revealed that unconventional RBDs containing active sites or molecule-binding pockets could interact with short, structured RNA molecules.</p>
+      <p><em>Arttu Jolma, <strong><ins>Jilin Zhang</ins></strong>, Estefania Mondragón, Ekaterina Morgunova, Teemu Kivioja, Kaitlin U. Laverty, Yimeng Yin, Fangjie Zhu, Gleb Bourenkov, Quaid Morris, Timothy R. Hughes, Louis James Maher III and Jussi Taipale</em></p>
+      <p><strong><a href="https://genome.cshlp.org/content/early/2020/07/22/gr.258848.119">Genome Res. (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>CRISPR-assisted detection of RNA-protein interactions in living cells</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Naturemeth_2020.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We have developed CRISPR-assisted RNA–protein interaction detection method (CARPID), which leverages CRISPR–CasRx-based RNA targeting and proximity labeling to identify binding proteins of specific long non-coding RNAs (lncRNAs) in the native cellular context. We applied CARPID to the nuclear lncRNA XIST, and it captured a list of known interacting proteins and multiple previously uncharacterized binding proteins. We generalized CARPID to explore binders of the lncRNAs DANCR and MALAT1, revealing the method’s wide applicability in identifying RNA-binding proteins.</p>
+      <p><em>Wenkai Yi, Jingyu Li, Xiaoxuan Zhu, Xi Wang, Ligang Fan, Wenju Sun, Linbu Liao, <strong><ins>Jilin Zhang</ins></strong>, Xiaoyu Li, Jing Ye, Fulin Chen, Jussi Taipale, Kui Ming Chan, Liang Zhang &amp; Jian Yan</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41592-020-0866-0">Nature Methods volume 17, pages685–688 (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>CRISPR/Cas9 screening using unique molecular identifiers</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/msb177834_2017.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Loss-of-function screening by CRISPR/Cas9 gene knockout with pooled, lentiviral guide libraries is a widely applicable method for systematic identification of genes contributing to diverse cellular phenotypes. Here, Random Sequence Labels (RSLs) are incorporated into the guide library, which act as unique molecular identifiers (UMIs) to allow massively parallel lineage tracing and lineage dropout screening. RSLs greatly improve the reproducibility of results by increasing both the precision and the accuracy of screens. They reduce the number of cells needed to reach a set statistical power, or allow a more robust screen using the same number of cells.</p>
+      <p><em>Bernhard Schmierer, Sandeep K Botla, <strong><ins>Jilin Zhang</ins> </strong>, Mikko Turunen, Teemu Kivioja, Jussi Taipale</em></p>
+      <p><strong><a href="https://www.embopress.org/doi/full/10.15252/msb.20177834">Molecular Systems Biology, 13:945 (2017)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Mice deficient of Myc super-enhancer region reveal differential control mechanism between normal and pathological growth</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Elife_2017.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>The gene desert upstream of the MYC oncogene on chromosome 8q24 contains susceptibility loci for several major forms of human cancer. The region shows high conservation between human and mouse and contains multiple MYC enhancers that are activated in tumor cells. However, the role of this region in normal development has not been addressed. Here we show that a 538 kb deletion of the entire MYC upstream super-enhancer region in mice results in 50% to 80% decrease in Myc expression in multiple tissues. The mice are viable and show no overt phenotype.</p>
+      <p><em>Kashyap Dave, Inderpreet Sur, Jian Yan, <strong><ins>Jilin Zhang</ins></strong>, Eevi Kaasinen, Fan Zhong, Leander Blaas, Xiaoze Li, Shabnam Kharazi, Charlotte Gustafsson, Ayla De Paepe, Robert Månsson, Jussi Taipale</em></p>
+      <p><strong><a href="https://elifesciences.org/articles/23382">eLife.23382.001 (2017)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Complex evolutionary trajectories of sex chromosomes across bird taxa</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Science_2014bird.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We analyze newly available genomes of 17 bird species representing the avian phylogenetic range, and find that more than half of them do not have as fully degenerated W chromosomes as that of chicken. We show that avian sex chromosomes harbor tremendous diversity among species in their composition of pseudoautosomal regions and degree of Z/W differentiation. Punctuated events of shared or lineage-specific recombination suppression have produced a gradient of “evolutionary strata” along the Z chromosome, which initiates from the putative avian sex-determining gene DMRT1 and ends at the pseudoautosomal region.</p>
+      <p><em>Qi Zhou, <strong><ins>Jilin Zhang</ins></strong>, Doris Bachtrog, Na An, Quanfei Huang, Erich D Jarvis, M Thomas P Gilbert, Guojie Zhang</em></p>
+      <p><strong><a href="https://pubmed.ncbi.nlm.nih.gov/25504727/">Science, 346(6215) (2014)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list-of-publications-to-be-completed">Full List of publications (to be completed)</h2>
+
+<p>A new duck genome reveals conserved and convergently evolved chromosome architectures of birds and mammals <br />
+  <em>Jing Li, <strong><ins>Jilin Zhang </ins></strong>, Jing Liu, Yang Zhou, Cheng Cai, Luohao Xu, Xuelei Dai, Shaohong Feng, Chunxue Guo, Jinpeng Rao, Kai Wei, Erich D Jarvis, Yu Jiang, Zhengkui Zhou, Guojie Zhang, Qi Zhou </em><br /><a href="https://academic.oup.com/gigascience/article/10/1/giaa142/6039068">GigaScience 10:1, (2021)</a></p>
+
+<p>Binding specificities of human RNA-binding proteins toward structured and linear RNA sequences <br />
+  <em>Arttu Jolma, <strong><ins>Jilin Zhang</ins></strong>, Estefania Mondragón, Ekaterina Morgunova, Teemu Kivioja, Kaitlin U. Laverty, Yimeng Yin, Fangjie Zhu, Gleb Bourenkov, Quaid Morris, Timothy R. Hughes, Louis James Maher III and Jussi Taipale </em><br /><a href="https://genome.cshlp.org/content/early/2020/07/22/gr.258848.119">Genome Res. (2020)</a></p>
+
+<p>CRISPR-assisted detection of RNA-protein interactions in living cells <br />
+  <em>Wenkai Yi, Jingyu Li, Xiaoxuan Zhu, Xi Wang, Ligang Fan, Wenju Sun, Linbu Liao, <strong><ins>Jilin Zhang</ins></strong>, Xiaoyu Li, Jing Ye, Fulin Chen, Jussi Taipale, Kui Ming Chan, Liang Zhang &amp; Jian Yan </em><br /><a href="https://www.nature.com/articles/s41592-020-0866-0">Nature Methods volume 17, pages685–688 (2020)</a></p>
+
+<p>CRISPR/Cas9 screening using unique molecular identifiers <br />
+  <em>Bernhard Schmierer, Sandeep K Botla, <strong><ins>Jilin Zhang</ins> </strong>, Mikko Turunen, Teemu Kivioja, Jussi Taipale </em><br /><a href="https://www.embopress.org/doi/full/10.15252/msb.20177834">Molecular Systems Biology, 13:945 (2017)</a></p>
+
+<p>Mice deficient of Myc super-enhancer region reveal differential control mechanism between normal and pathological growth <br />
+  <em>Kashyap Dave, Inderpreet Sur, Jian Yan, <strong><ins>Jilin Zhang</ins></strong>, Eevi Kaasinen, Fan Zhong, Leander Blaas, Xiaoze Li, Shabnam Kharazi, Charlotte Gustafsson, Ayla De Paepe, Robert Månsson, Jussi Taipale </em><br /><a href="https://elifesciences.org/articles/23382">eLife.23382.001 (2017)</a></p>
+
+<p>Complex evolutionary trajectories of sex chromosomes across bird taxa <br />
+  <em>Qi Zhou, <strong><ins>Jilin Zhang</ins></strong>, Doris Bachtrog, Na An, Quanfei Huang, Erich D Jarvis, M Thomas P Gilbert, Guojie Zhang </em><br /><a href="https://pubmed.ncbi.nlm.nih.gov/25504727/">Science, 346(6215) (2014)</a></p>
+
+:ET
