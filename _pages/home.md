@@ -28,10 +28,7 @@ JZ lab is a research group at the [City University of Hong Kong](https://www.cit
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/msb177834_2017.jpeg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Elife_2017.png" alt="Slide 5" />
-        </div>       
+        </div>     
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Science_2014bird.jpeg" alt="Slide 6" />
         </div>
