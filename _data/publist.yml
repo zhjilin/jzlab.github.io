@@ -1,3 +1,14 @@
+
+- title: "The highly conserved RNA-binding specificity of nucleocapsid protein facilitates the identification of drugs with broad anti-coronavirus activity"
+  image: csbj_2022covid.jpg
+  description: The binding of SARS-CoV-2 nucleocapsid (N) protein to both the 5′- and 3′-ends of genomic RNA has different implications arising from its binding to the central region during virion assembly. However, the mechanism underlying selective binding remains unknown. Herein, we performed the high-throughput RNA-SELEX (HTR-SELEX) to determine the RNA-binding specificity of the N proteins of various SARS-CoV-2 variants as well as other β-coronaviruses and showed that N proteins could bind two unrelated sequences, both of which were highly conserved across all variants and species. Interestingly, both sequences are virtually absent from the human transcriptome; however, they exhibit a highly enriched, mutually complementary distribution in the coronavirus genome, highlighting their varied functions in genome packaging. Our results provide mechanistic insights into viral genome packaging, thereby increasing the feasibility of developing drugs with broad-spectrum anti-coronavirus activity by targeting RNA binding by N proteins. 
+  authors: Fan, Shaorong;Sun, Wenju;Fan, Ligang;Wu, Nan;Sun, Wei;Ma, Haiqian;Chen, Siyuan;Li, Zitong;Li, Yu;<strong><ins>Zhang, Jilin</ins></strong>;Yan, Jian
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2001037022004123
+    display:  Computational and Structural Biotechnology Journal, (2022)
+  highlight: 1
+  news2:
+
 - title: "A new duck genome reveals conserved and convergently evolved chromosome architectures of birds and mammals"
   image: giaa_2021duck.jpeg
   description: Ducks have a typical avian karyotype that consists of macro- and microchromosomes, but a pair of much less differentiated ZW sex chromosomes compared to chickens. To elucidate the evolution of chromosome architectures, we produced a nearly complete chromosomal assembly of a female Pekin duck. Analyses based on thi high quality genome have revealed that the duck topologically associated domains (TAD) are demarcated by putative binding sites of the insulator protein CTCF, housekeeping genes, or transitions of active/inactive chromatin compartments, indicating conserved mechanisms of spatial chromosome folding with mammals. 
