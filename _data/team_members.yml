@@ -1,4 +1,4 @@
-- name: Jilin Zhang
+- name: Jilin ZHANG
   photo: Jilin_profile.png
   info: Assistant professor, started March 2022
   email: jilin.zhang@cityu.edu.hk
@@ -9,10 +9,28 @@
   education4: 
   education5: 
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See vacancies for more info
-  email: jilin.zhang@cityu.edu.hk
+- name: "Qianwe XIE!"
+  photo: QianwenXIE.jpg
+  info: Research Assistant (Visiting until June 2023)
+  number_educ: 1
+  education1: Northwest University
+  education2:
+  education3:
+  education4:
+
+- name: "Huanhuan SUN"
+  photo: HuanhuanSUN.jpg
+  info: PhD student (2023), co-supersived with Dr. Fuyong LI
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+
+- name: "Yicen ZHOU"
+  photo: YicenZHOU.jpg
+  info: PhD student (2023), co-supersived with Dr. Jian YAN
   number_educ: 0
   education1:
   education2:
