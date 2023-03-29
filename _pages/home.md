@@ -24,13 +24,16 @@ JZ lab is a research group at the [City University of Hong Kong](https://www.cit
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GR_2020.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/csbj_2022covid.jpg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GR_2020.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/msb177834_2017.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/msb177834_2017.jpeg" alt="Slide 6" />
         </div>     
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Science_2014bird.jpeg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Science_2014bird.jpeg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

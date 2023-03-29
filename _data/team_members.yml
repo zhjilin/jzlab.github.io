@@ -9,11 +9,21 @@
   education4: 
   education5: 
 
-- name: "Qianwe XIE!"
+- name: "Qianwe XIE"
   photo: QianwenXIE.jpg
   info: Research Assistant (Visiting until June 2023)
   number_educ: 1
   education1: Northwest University
+  education2:
+  education3:
+  education4:
+
+
+- name: "Jie CHEN"
+  photo: JieCHEN.jpg
+  info: Research Assistant
+  number_educ: 1
+  education1: Shanghai Jiaotong University
   education2:
   education3:
   education4:
@@ -29,7 +39,7 @@
 
 
 - name: "Yicen ZHOU"
-  photo: YicenZHOU.jpg
+  photo: YicenZHOU2.jpg
   info: PhD student (2023), co-supersived with Dr. Jian YAN
   number_educ: 0
   education1:
