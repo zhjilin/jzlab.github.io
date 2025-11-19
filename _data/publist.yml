@@ -1,11 +1,50 @@
+- title: "MoRNiNG: A Database of RNA Modification Sites Associated with RNA Secondary Structure Dynamics"
+  image: GPB_2025.png
+  description: RNA structures are essential building blocks of functional RNA molecules. Profiling secondary structures in vivo and in real time remains challenging because RNAs exhibit dynamic structures and complex conformations. Besides the canonical stem-loop secondary structure, non-canonical structure RNA G-quadruplex (rG4) has attracted interest for its potential as a drug target. How distinct RNA structures, formed from the same RNA sequences, function within the transcriptome is poorly understood, and factors driving and regulating structure transitions remain to be investigated. Inspired by an HOXB9 segment able to form multiple structures, we found that many RNA segments across the transcriptome exhibit multi-faceted structure-forming potential. In the case of HOXB9, we demonstrate that N6-methyladenosine (m6A) modification influences RNA structure and binding to RNA-binding proteins (RBPs). Therefore, we collected RNA modification sites naturally occurring within the putative G-quadruplex-forming sequences (PQSs) of transcripts and developed MoRNiNG, a database for RNA modifications in natural rG4, which is freely accessible at https://www.cityu.edu.hk/bms/morning.
+  authors: Yicen Zhou, Shanxin Lyu, Shiau Wei Liew, Xi Mao, Ian Hoffecker, Jian Yan, Yu Li, Chun Kit Kwok, <strong><ins>Jilin Zhang</strong></ins>
+  link:
+    url: https://doi.org/10.1093/gpbjnl/qzaf106
+    display: Genomics, Proteomics and Bioinformatics, (2025)
+    highlight: 1
+    news2:
+
+- title: "Patterns and Processes of Genomic Evolution Inferred From the Ten Smallest Vertebrate Genomes"
+  image: advs_2025.jpg
+  description: Pufferfish exhibit the smallest vertebrate genomes, making them ideal models for investigating evolutionary patterns and processes that affect genome size. While the Takifugu rubripes genome was fully sequenced two decades ago, key evolutionary drivers remain elusive. We sequenced 10 pufferfish genomes and generated 35 transcriptomes and 13 methylomes to understand genomic evolutionary mechanisms. Comparative genomics revealed that transposable element suppression—rather than lineage-specific conserved element loss—primarily underlies genome compaction. This is mediated by reductions in transposon-associated enzymes that limit transposable element propagation and modify DNA repair mechanisms that promote genomic streamlining.Our indings shed light on mechanisms enabling extreme vertebrate genome compaction and provide insights for genome engineering applications. 
+  authors: Kaiqiang Liu, Qian Wang, Ning Wang, Lingfeng Meng, Shuo Li, Hong-Yan Wang, Yuyan Liu, Qian Liu, Yangqing Zhang, Lucas B. Doretto, Mengqi Zhang, Yating Qin, Shanshan Pan, Shenglei Han, Weijing Li, Shanshan Liu, Fengtao Gao, Axel Meyer, Jussi Taipale, Guangyi Fan, Manfred Schartl, <strong><ins>Jilin Zhang</strong></ins>, Changwei Shao
+  link:
+    url: https://doi.org/10.1002/advs.202417251
+    display: Advanced Science, (2025)
+    highlight: 1
+  news2:
+
+- title: "Shared requirement for MYC upstream super-enhancer region in tissue regeneration and cancer"
+  image: 
+  description: Cancer has been characterized as a wound that does not heal. Malignant cells are morphologically distinct from normal proliferating cells but have extensive similarities to tissues undergoing wound healing and/or regeneration. The mechanistic basis of this similarity has, however, remained enigmatic. Here, we show that the genomic region upstream of Myc, which carries more cancer susceptibility in humans than any other genomic region, is required for intestinal regeneration after radiation damage. Failure to regenerate is associated with inefficient Ly6a/Sca1+ stem/progenitor cell mobilization, and almost complete failure to re-establish Lgr5+ cell compartment in the intestinal crypts. The Myc upstream region is also critical for growth of adult intestinal cells in 3D organoid culture. We show that culture conditions recapitulating most aspects of adult normal tissue architecture still reprogram normal cells to proliferate using a mechanism similar to that employed by cancer cells. Our results establish a function for the Myc2-540 super-enhancer region as the genetic link between tissue regeneration and tumorigenesis, and demonstrates that normal tissue renewal and regeneration of tissues after severe damage are mechanistically distinct. 
+  authors: Inderpreet Sur, Wenshuo Zhao, <strong><ins>Jilin Zhang</strong></ins>, Margareta Kling Pilström, Anna T Webb, Huaitao Cheng, Ari Ristimäki, Pekka Katajisto, Martin Enge, Helena Rannikmae, Marc de la Roche, Jussi Taipale
+  link:
+    url: https://doi.org/10.26508/lsa.202403090
+    display: Life Science Alliance, (2025)
+    highlight: 1
+  news2:
+
+- title: "Populational pan-ethnic screening panel enabled by deep whole genome sequencing"
+  image: npjGM_2023.png
+  description: Birth defect is a global threat to the public health systems. Mitigating neonatal anomalies is hampered by elusive molecular mechanisms of pathogenic mutations and poor subsequent translation into preventative measures. Applying appropriate strategies in China to promote reproductive health is particularly challenging, as the Chinese population compromises complex genomic diversity due to the inclusion of many ethnic groups with distinct genetic backgrounds. To investigate and evaluate the feasibility of implementing a pan-ethnic screening strategy, and guide future reproductive counselling, high-quality variants associated with autosome recessive (AR) diseases derived from the largest publicly available cohort of the Chinese population were re-analysed using a bottom-up approach. 
+  authors: Linfeng Yang, Zhe Lin, Yong Gao, Jianguo Zhang, Huanhuan Peng, Yaqing Li, Jingang Che, Lijian Zhao, <strong><ins>Jilin Zhang</ins></strong>
+  link:
+    url: https://doi.org/10.1038/s41525-023-00383-8
+    display: npj Genomic Medicine, (2023)
+  highlight: 1
+  news2:
 
 - title: "The highly conserved RNA-binding specificity of nucleocapsid protein facilitates the identification of drugs with broad anti-coronavirus activity"
   image: csbj_2022covid.jpg
-  description: The binding of SARS-CoV-2 nucleocapsid (N) protein to both the 5′- and 3′-ends of genomic RNA has different implications arising from its binding to the central region during virion assembly. However, the mechanism underlying selective binding remains unknown. Herein, we performed the high-throughput RNA-SELEX (HTR-SELEX) to determine the RNA-binding specificity of the N proteins of various SARS-CoV-2 variants as well as other β-coronaviruses and showed that N proteins could bind two unrelated sequences, both of which were highly conserved across all variants and species. Interestingly, both sequences are virtually absent from the human transcriptome; however, they exhibit a highly enriched, mutually complementary distribution in the coronavirus genome, highlighting their varied functions in genome packaging. Our results provide mechanistic insights into viral genome packaging, thereby increasing the feasibility of developing drugs with broad-spectrum anti-coronavirus activity by targeting RNA binding by N proteins. 
-  authors: Fan, Shaorong;Sun, Wenju;Fan, Ligang;Wu, Nan;Sun, Wei;Ma, Haiqian;Chen, Siyuan;Li, Zitong;Li, Yu;<strong><ins>Zhang, Jilin</ins></strong>;Yan, Jian
+  description: The binding of SARS-CoV-2 nucleocapsid (N) protein to both the 5′- and 3′-ends of genomic RNA has different implications arising from its binding to the central region during virion assembly. However, the mechanism underlying selective binding remains unknown. Herein, we performed the high-throughput RNA-SELEX (HTR-SELEX) to determine the RNA-binding specificity of the N proteins of various coronaviruses and showed that N proteins could bind two unrelated sequences that are highly conserved across species. Interestingly, they are virtually absent from the human transcriptome. Our results provide mechanistic insights into viral genome packaging, thereby increasing the feasibility of developing drugs with broad-spectrum anti-coronavirus activity by targeting RNA binding by N proteins. 
+  authors: Shaorong Fan, Wenju Sun, Ligang Fan, Nan Wu, Wei Sun, Haiqian Ma, Siyuan Chen, Zitong Li, Yu Li, <strong><ins>Jilin Zhang</ins></strong>, Jian Yan 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2001037022004123
-    display:  Computational and Structural Biotechnology Journal, (2022)
+    display: Computational and Structural Biotechnology Journal, (2022)
   highlight: 1
   news2:
 
@@ -15,7 +54,7 @@
   authors: Jing Li, <strong><ins>Jilin Zhang </ins></strong>, Jing Liu, Yang Zhou, Cheng Cai, Luohao Xu, Xuelei Dai, Shaohong Feng, Chunxue Guo, Jinpeng Rao, Kai Wei, Erich D Jarvis, Yu Jiang, Zhengkui Zhou, Guojie Zhang, Qi Zhou
   link:
     url: https://academic.oup.com/gigascience/article/10/1/giaa142/6039068
-    display:  GigaScience 10:1, (2021)
+    display: GigaScience 10:1, (2021)
   highlight: 1
   news2:
 
@@ -55,6 +94,6 @@
   authors: Qi Zhou, <strong><ins>Jilin Zhang</ins></strong>, Doris Bachtrog, Na An, Quanfei Huang, Erich D Jarvis, M Thomas P Gilbert, Guojie Zhang
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/25504727/
-    display:  Science, 346(6215) (2014)
+    display: Science, 346(6215) (2014)
   highlight: 1
   news2:

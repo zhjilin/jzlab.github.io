@@ -9,28 +9,35 @@
   education4: 
   education5: 
 
-- name: "Qianwe XIE"
-  photo: QianwenXIE.jpg
-  info: Research Assistant (Visiting until June 2023)
+- name: "Xingyu ZHOU"
+  photo: 
+  info: Research Assistant (2025)
   number_educ: 1
-  education1: Northwest University
+  education1: 
   education2:
   education3:
   education4:
 
-
-- name: "Jie CHEN"
-  photo: JieCHEN.jpg
-  info: Research Assistant
+- name: "Tianyu ZHAO"
+  photo: 
+  info: PhD student (2025)
   number_educ: 1
-  education1: Shanghai Jiaotong University
+  education1: 
+  education2:
+  education3:
+
+- name: "Yuanyuan ZHANG"
+  photo: 
+  info: PhD student (2024)
+  number_educ: 1
+  education1: 
   education2:
   education3:
   education4:
 
-- name: "Huanhuan SUN"
-  photo: HuanhuanSUN.jpg
-  info: PhD student (2023), co-supersived with Dr. Fuyong LI
+- name: "Shanxin LYU"
+  photo: 
+  info: PhD student (2023)
   number_educ: 0
   education1:
   education2:
