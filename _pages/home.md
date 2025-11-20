@@ -24,15 +24,18 @@ JZ lab is a research group at the [City University of Hong Kong](https://www.cit
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/csbj_2022covid.jpg" alt="Slide 1" />
-        </div>
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GR_2020.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPB_2025.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/msb177834_2017.jpeg" alt="Slide 6" />
-        </div>     
-         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/advs_2025.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/npjGM_2023.png" alt="Slide 3" />
+        </div>          
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GR_2020.png" alt="Slide 6" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Science_2014bird.jpeg" alt="Slide 7" />
         </div>
     </div>
@@ -59,5 +62,5 @@ We are located at Department of Biomedical sciences, City University of Hong Kon
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cityu_vertical_logo_rgb.jpeg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CityUHK_Logo_Horizontal_CMYK.jpg" style="width: 210px">
 </figure>

@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications see [below](#full-list-of-publications) or go to [CityU Scholars](https://scholars.cityu.edu.hk/en/persons/jilin-zhang(6d4beccd-7ec5-4423-a8bc-207ba5fbb6d6).html), [ORCID iD: 0000-0002-9976-1605](http://orcid.org/0000-0002-9976-1605))
+(For a full list of publications see [below](#full-list-of-publications) or go to [CityU Scholars](https://scholars.cityu.edu.hk/en/persons/jilin-zhang(6d4beccd-7ec5-4423-a8bc-207ba5fbb6d6).html), [ORCID: 0000-0002-9976-1605](http://orcid.org/0000-0002-9976-1605))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,7 +51,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Full List of publications (to be completed)
+## Full List of publications (see [ORCID: 0000-0002-9976-1605](http://orcid.org/0000-0002-9976-1605))
 
 {% for publi in site.data.publist %}
 

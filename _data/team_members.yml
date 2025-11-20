@@ -2,7 +2,7 @@
   photo: Jilin_profile.png
   info: Assistant professor, started March 2022
   email: jilin.zhang@cityu.edu.hk
-  number_educ: 5
+  number_educ: 3
   education1: Master in Biphysics at Beijing Jiaotong University
   education2: PhD Karolinska Insitutet with <a href="https://www.taipalelabs.org/">Jussi Taipale</a>
   education3: Postdoc Karolinska Insitutet with <a href="https://ki.se/en/mbb/bjorn-reinius-group">Björn Reinius</a>
@@ -10,7 +10,7 @@
   education5: 
 
 - name: "Xingyu ZHOU"
-  photo: 
+  photo: ../bio-photo.jpg
   info: Research Assistant (2025)
   number_educ: 1
   education1: 
@@ -19,7 +19,7 @@
   education4:
 
 - name: "Tianyu ZHAO"
-  photo: 
+  photo: TianyuZHAO.JPG
   info: PhD student (2025)
   number_educ: 1
   education1: 
@@ -27,7 +27,7 @@
   education3:
 
 - name: "Yuanyuan ZHANG"
-  photo: 
+  photo: ../bio-photo.jpg
   info: PhD student (2024)
   number_educ: 1
   education1: 
@@ -36,9 +36,9 @@
   education4:
 
 - name: "Shanxin LYU"
-  photo: 
+  photo: ../bio-photo.jpg
   info: PhD student (2023)
-  number_educ: 0
+  number_educ: 1
   education1:
   education2:
   education3:
@@ -48,7 +48,7 @@
 - name: "Yicen ZHOU"
   photo: YicenZHOU2.jpg
   info: PhD student (2023), co-supersived with Dr. Jian YAN
-  number_educ: 0
+  number_educ: 1
   education1:
   education2:
   education3:

@@ -8,5 +8,11 @@
 #  education3:
 #  education4:
 - name: Yijin Wang
+  photo: ../bio-photo.jpg 
   info: Master student
   status: 2025 cohort
+
+- name: Bo Pang
+  photo: BoPANG.jpg
+  info: Undergraduate 
+  status: BISI-CityU

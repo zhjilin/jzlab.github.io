@@ -1,40 +1,70 @@
 - title: "MoRNiNG: A Database of RNA Modification Sites Associated with RNA Secondary Structure Dynamics"
   image: GPB_2025.png
-  description: RNA structures are essential building blocks of functional RNA molecules. Profiling secondary structures in vivo and in real time remains challenging because RNAs exhibit dynamic structures and complex conformations. Besides the canonical stem-loop secondary structure, non-canonical structure RNA G-quadruplex (rG4) has attracted interest for its potential as a drug target. How distinct RNA structures, formed from the same RNA sequences, function within the transcriptome is poorly understood, and factors driving and regulating structure transitions remain to be investigated. Inspired by an HOXB9 segment able to form multiple structures, we found that many RNA segments across the transcriptome exhibit multi-faceted structure-forming potential. In the case of HOXB9, we demonstrate that N6-methyladenosine (m6A) modification influences RNA structure and binding to RNA-binding proteins (RBPs). Therefore, we collected RNA modification sites naturally occurring within the putative G-quadruplex-forming sequences (PQSs) of transcripts and developed MoRNiNG, a database for RNA modifications in natural rG4, which is freely accessible at https://www.cityu.edu.hk/bms/morning.
-  authors: Yicen Zhou, Shanxin Lyu, Shiau Wei Liew, Xi Mao, Ian Hoffecker, Jian Yan, Yu Li, Chun Kit Kwok, <strong><ins>Jilin Zhang</strong></ins>
+  description: RNA structures are essential building blocks of functional RNA molecules. Besides the canonical stem-loop secondary structure, non-canonical structure RNA G-quadruplex (rG4) has attracted interest for its potential as a drug target. However, how distinct RNA structures, formed from the same RNA sequences, function within the transcriptome is poorly understood, and factors driving and regulating structure transitions remain to be investigated. Inspired by an HOXB9 segment able to form multiple structures, we found that many RNA segments across the transcriptome exhibit multi-faceted structure-forming potential. In the case of HOXB9, we demonstrate that N6-methyladenosine (m6A) modification influences RNA structure and binding to RNA-binding proteins (RBPs). Therefore, we collected RNA modification sites naturally occurring within the putative G-quadruplex-forming sequences (PQSs) of transcripts and developed MoRNiNG, a database for RNA modifications in natural rG4, which is freely accessible at https://www.cityu.edu.hk/bms/morning.
+  authors: Yicen Zhou, Shanxin Lyu, Shiau Wei Liew, Xi Mao, Ian Hoffecker, Jian Yan, Yu Li, Chun Kit Kwok#, <strong><ins>Jilin Zhang#</ins></strong>
   link:
     url: https://doi.org/10.1093/gpbjnl/qzaf106
-    display: Genomics, Proteomics and Bioinformatics, (2025)
-    highlight: 1
-    news2:
+    display: Genomics, Proteomics and Bioinformatics, 2025
+  highlight: 1
+  news2:
 
 - title: "Patterns and Processes of Genomic Evolution Inferred From the Ten Smallest Vertebrate Genomes"
   image: advs_2025.jpg
   description: Pufferfish exhibit the smallest vertebrate genomes, making them ideal models for investigating evolutionary patterns and processes that affect genome size. While the Takifugu rubripes genome was fully sequenced two decades ago, key evolutionary drivers remain elusive. We sequenced 10 pufferfish genomes and generated 35 transcriptomes and 13 methylomes to understand genomic evolutionary mechanisms. Comparative genomics revealed that transposable element suppression—rather than lineage-specific conserved element loss—primarily underlies genome compaction. This is mediated by reductions in transposon-associated enzymes that limit transposable element propagation and modify DNA repair mechanisms that promote genomic streamlining.Our indings shed light on mechanisms enabling extreme vertebrate genome compaction and provide insights for genome engineering applications. 
-  authors: Kaiqiang Liu, Qian Wang, Ning Wang, Lingfeng Meng, Shuo Li, Hong-Yan Wang, Yuyan Liu, Qian Liu, Yangqing Zhang, Lucas B. Doretto, Mengqi Zhang, Yating Qin, Shanshan Pan, Shenglei Han, Weijing Li, Shanshan Liu, Fengtao Gao, Axel Meyer, Jussi Taipale, Guangyi Fan, Manfred Schartl, <strong><ins>Jilin Zhang</strong></ins>, Changwei Shao
+  authors: Kaiqiang Liu, Qian Wang, Ning Wang, Lingfeng Meng, Shuo Li, Hong-Yan Wang, Yuyan Liu, Qian Liu, Yangqing Zhang, Lucas B. Doretto, Mengqi Zhang, Yating Qin, Shanshan Pan, Shenglei Han, Weijing Li, Shanshan Liu, Fengtao Gao, Axel Meyer, Jussi Taipale, Guangyi Fan, Manfred Schartl#, <strong><ins>Jilin Zhang#</ins></strong>, Changwei Shao#
   link:
     url: https://doi.org/10.1002/advs.202417251
-    display: Advanced Science, (2025)
-    highlight: 1
+    display: Advanced Science, 2025
+  highlight: 1
   news2:
 
 - title: "Shared requirement for MYC upstream super-enhancer region in tissue regeneration and cancer"
   image: 
   description: Cancer has been characterized as a wound that does not heal. Malignant cells are morphologically distinct from normal proliferating cells but have extensive similarities to tissues undergoing wound healing and/or regeneration. The mechanistic basis of this similarity has, however, remained enigmatic. Here, we show that the genomic region upstream of Myc, which carries more cancer susceptibility in humans than any other genomic region, is required for intestinal regeneration after radiation damage. Failure to regenerate is associated with inefficient Ly6a/Sca1+ stem/progenitor cell mobilization, and almost complete failure to re-establish Lgr5+ cell compartment in the intestinal crypts. The Myc upstream region is also critical for growth of adult intestinal cells in 3D organoid culture. We show that culture conditions recapitulating most aspects of adult normal tissue architecture still reprogram normal cells to proliferate using a mechanism similar to that employed by cancer cells. Our results establish a function for the Myc2-540 super-enhancer region as the genetic link between tissue regeneration and tumorigenesis, and demonstrates that normal tissue renewal and regeneration of tissues after severe damage are mechanistically distinct. 
-  authors: Inderpreet Sur, Wenshuo Zhao, <strong><ins>Jilin Zhang</strong></ins>, Margareta Kling Pilström, Anna T Webb, Huaitao Cheng, Ari Ristimäki, Pekka Katajisto, Martin Enge, Helena Rannikmae, Marc de la Roche, Jussi Taipale
+  authors: Inderpreet Sur, Wenshuo Zhao, <strong><ins>Jilin Zhang</ins></strong>, Margareta Kling Pilström, Anna T Webb, Huaitao Cheng, Ari Ristimäki, Pekka Katajisto, Martin Enge, Helena Rannikmae, Marc de la Roche, Jussi Taipale#
   link:
     url: https://doi.org/10.26508/lsa.202403090
-    display: Life Science Alliance, (2025)
-    highlight: 1
+    display: Life Science Alliance, 2025
+  highlight: 0
+  news2:
+
+- title: "Specificity landscapes of 40 R2R3-MYBs reveal how paralogs target different cis-elements by homodimeric binding"
+  image:
+  description:
+  authors: ian Li, Hao Chen, Nana Ma, Dingkun Jiang, Jiacheng Wu, Xinfeng Zhang, Hao Li, Jiaqing Su, Piaojuan Chen, Qing Liu, Yuefeng Guan, Xiaoyue Zhu, Juncheng Lin, <strong> <ins>Jilin Zhang</ins></strong>, Qin Wang#, Honghong Guo#, Fangjie Zhu#
+  link:
+    url: https://doi.org/10.1002/imt2.70009
+    display: iMeta, 2025
+  highlight: 0
+  news2: 
+
+- title: "DNA methylation patterns of transcription factor binding regions characterize their functional and evolutionary contexts"
+  image:
+  description:
+  authors: Martina Rimoldi, Ning Wang, <strong><ins>Jilin Zhang</ins></strong>, Diego Villar, Duncan T. Odom, Jussi Taipale, Paul Flicek, Maša Roller
+  link:
+    url: https://doi.org/10.1186/s13059-024-03218-6
+    display: Genome Biology, 2024
+  highlight: 0
+  news2: 
+
+- title: "On-chip droplet analysis and cell spheroid screening by capillary wrapping enabled shape-adaptive ferrofluid transporters"
+  image:
+  description:
+  authors: Xuejiao Wang, Xin Li, Aoyang Pu, Ho Bak Shun, Cien Chen, Liqing Ai, Zhaoling Tan, <strong><ins>Jilin Zhang</ins></strong>, Kai Liu, Jun Gao, Kiwon Ban, Xi Yao
+  link:
+    url: https://doi.org/10.1039/d3lc00906h
+    display: Lab on a Chip, 2024
+  highlight: 0
   news2:
 
 - title: "Populational pan-ethnic screening panel enabled by deep whole genome sequencing"
   image: npjGM_2023.png
   description: Birth defect is a global threat to the public health systems. Mitigating neonatal anomalies is hampered by elusive molecular mechanisms of pathogenic mutations and poor subsequent translation into preventative measures. Applying appropriate strategies in China to promote reproductive health is particularly challenging, as the Chinese population compromises complex genomic diversity due to the inclusion of many ethnic groups with distinct genetic backgrounds. To investigate and evaluate the feasibility of implementing a pan-ethnic screening strategy, and guide future reproductive counselling, high-quality variants associated with autosome recessive (AR) diseases derived from the largest publicly available cohort of the Chinese population were re-analysed using a bottom-up approach. 
-  authors: Linfeng Yang, Zhe Lin, Yong Gao, Jianguo Zhang, Huanhuan Peng, Yaqing Li, Jingang Che, Lijian Zhao, <strong><ins>Jilin Zhang</ins></strong>
+  authors: Linfeng Yang, Zhe Lin, Yong Gao, Jianguo Zhang, Huanhuan Peng, Yaqing Li, Jingang Che, Lijian Zhao, <strong><ins>Jilin Zhang#</ins></strong>
   link:
     url: https://doi.org/10.1038/s41525-023-00383-8
-    display: npj Genomic Medicine, (2023)
+    display: npj Genomic Medicine, 2023
   highlight: 1
   news2:
 
@@ -45,26 +75,36 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2001037022004123
     display: Computational and Structural Biotechnology Journal, (2022)
-  highlight: 1
+  highlight: 0
+  news2:
+
+- title: "Phylogeny and Sex Chromosome Evolution of Palaeognathae"
+  image:
+  description:
+  authors: Zongji Wang, <strong><ins>Jilin Zhang*</ins></strong>, Xiaoman Xu, Christopher Witt, Yuan Deng, Guangji Chen, Guanliang Meng, Shaohong Feng, Luohao Xu, Tamas Szekely, Guojie Zhang#, Qi Zhou#
+  link:
+    url: https://doi.org/10.1016/j.jgg.2021.06.013
+    display: JGG, 2022
+  highlight: 0
   news2:
 
 - title: "A new duck genome reveals conserved and convergently evolved chromosome architectures of birds and mammals"
   image: giaa_2021duck.jpeg
   description: Ducks have a typical avian karyotype that consists of macro- and microchromosomes, but a pair of much less differentiated ZW sex chromosomes compared to chickens. To elucidate the evolution of chromosome architectures, we produced a nearly complete chromosomal assembly of a female Pekin duck. Analyses based on thi high quality genome have revealed that the duck topologically associated domains (TAD) are demarcated by putative binding sites of the insulator protein CTCF, housekeeping genes, or transitions of active/inactive chromatin compartments, indicating conserved mechanisms of spatial chromosome folding with mammals. 
-  authors: Jing Li, <strong><ins>Jilin Zhang </ins></strong>, Jing Liu, Yang Zhou, Cheng Cai, Luohao Xu, Xuelei Dai, Shaohong Feng, Chunxue Guo, Jinpeng Rao, Kai Wei, Erich D Jarvis, Yu Jiang, Zhengkui Zhou, Guojie Zhang, Qi Zhou
+  authors: Jing Li, <strong><ins>Jilin Zhang</ins></strong>, Jing Liu, Yang Zhou, Cheng Cai, Luohao Xu, Xuelei Dai, Shaohong Feng, Chunxue Guo, Jinpeng Rao, Kai Wei, Erich D Jarvis, Yu Jiang, Zhengkui Zhou, Guojie Zhang, Qi Zhou
   link:
     url: https://academic.oup.com/gigascience/article/10/1/giaa142/6039068
-    display: GigaScience 10:1, (2021)
-  highlight: 1
+    display: GigaScience, 2021
+  highlight: 0
   news2:
 
 - title: "Binding specificities of human RNA-binding proteins toward structured and linear RNA sequences"
   image: GR_2020.png
   description: We assembled a genome-scale collection of RBPs and their RNA-binding domains (RBDs) and assessed their specificities using high-throughput RNA-SELEX (HTR-SELEX). Approximately 30% preferred structured motifs folding into stem–loops. We also found that many RBPs can bind to multiple distinctly different motifs. Structural analysis revealed that unconventional RBDs containing active sites or molecule-binding pockets could interact with short, structured RNA molecules. 
-  authors: Arttu Jolma, <strong><ins>Jilin Zhang</ins></strong>, Estefania Mondragón, Ekaterina Morgunova, Teemu Kivioja, Kaitlin U. Laverty, Yimeng Yin, Fangjie Zhu, Gleb Bourenkov, Quaid Morris, Timothy R. Hughes, Louis James Maher III and Jussi Taipale
+  authors: Arttu Jolma*, <strong><ins>Jilin Zhang*</ins></strong>, Estefania Mondragón*, Ekaterina Morgunova, Teemu Kivioja, Kaitlin U. Laverty, Yimeng Yin, Fangjie Zhu, Gleb Bourenkov, Quaid Morris, Timothy R. Hughes, Louis James Maher III and Jussi Taipale
   link:
     url: https://genome.cshlp.org/content/early/2020/07/22/gr.258848.119
-    display: Genome Res. (2020)
+    display: Genome Research, 2020
   highlight: 1
   news2:
 
@@ -74,7 +114,7 @@
   authors: Wenkai Yi, Jingyu Li, Xiaoxuan Zhu, Xi Wang, Ligang Fan, Wenju Sun, Linbu Liao, <strong><ins>Jilin Zhang</ins></strong>, Xiaoyu Li, Jing Ye, Fulin Chen, Jussi Taipale, Kui Ming Chan, Liang Zhang & Jian Yan
   link:
     url: https://www.nature.com/articles/s41592-020-0866-0
-    display:  Nature Methods volume 17, pages685–688 (2020)
+    display:  Nature Methods, 2020
   highlight: 1
   news2:
 
@@ -84,16 +124,16 @@
   authors: Bernhard Schmierer, Sandeep K Botla, <strong><ins>Jilin Zhang</ins> </strong>, Mikko Turunen, Teemu Kivioja, Jussi Taipale
   link:
     url: https://www.embopress.org/doi/full/10.15252/msb.20177834
-    display:  Molecular Systems Biology, 13:945 (2017)
-  highlight: 1
+    display:  Molecular Systems Biology, 2017
+  highlight: 0
   news2:
 
 - title: "Complex evolutionary trajectories of sex chromosomes across bird taxa"
   image: Science_2014bird.jpeg
   description: We analyze newly available genomes of 17 bird species representing the avian phylogenetic range, and find that more than half of them do not have as fully degenerated W chromosomes as that of chicken. We show that avian sex chromosomes harbor tremendous diversity among species in their composition of pseudoautosomal regions and degree of Z/W differentiation. Punctuated events of shared or lineage-specific recombination suppression have produced a gradient of "evolutionary strata" along the Z chromosome, which initiates from the putative avian sex-determining gene DMRT1 and ends at the pseudoautosomal region.
-  authors: Qi Zhou, <strong><ins>Jilin Zhang</ins></strong>, Doris Bachtrog, Na An, Quanfei Huang, Erich D Jarvis, M Thomas P Gilbert, Guojie Zhang
+  authors: Qi Zhou*, <strong><ins>Jilin Zhang*</ins></strong>, Doris Bachtrog*, Na An, Quanfei Huang, Erich D Jarvis, M Thomas P Gilbert, Guojie Zhang
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/25504727/
-    display: Science, 346(6215) (2014)
+    display: Science, 2014
   highlight: 1
   news2:
